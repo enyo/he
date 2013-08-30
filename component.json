@@ -5,6 +5,7 @@
 	"repo": "mathiasbynens/he",
 	"license": "MIT",
 	"scripts": [
+		"index.js",
 		"he.js"
 	],
 	"keywords": [
